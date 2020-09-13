@@ -1,11 +1,17 @@
-# learning_python
+# Python Programming
 tutorials of python and exercises. In this repo I added what I learn, I code everything in python
 
+## Tutorial Notebooks
+#### 1. <a href="notebooks/py_tutorials_01.ipynb">Numerical expressions, Data types, String, List, Tuple, Dictionary, Sets.</a>
+#### 2. <a href="notebooks/py_tutorials_02.ipynb">If-Else and Elif conditions, For loop, While loop, Break and continue statements.</a>
+#### 3. <a href="notebooks/py_tutorials_03.ipynb">Functions and recursions,Docstrings, Exception Handling, Global variables,Lambda function.</a>
+#### 4. <a href="notebooks/py_tutorials_04.ipynb">File I/O, Opening files, with block</a>
+#### 5. <a href="notebooks/py_tutorials_05.ipynb">F string and string formatting</a>
 
 
 
-# <a href="py_tuts">Python all most complete tutorials</a>
 
+## <a href="py_tuts">Python all most complete tutorials</a>
 <ol>
 <li><a href="py_tuts/tut1.py">Basic program sum of two numbers</a></li>
 <li><a href="py_tuts/tut2.py">Sum of two variables in one line.</a></li>
@@ -34,9 +40,31 @@ tutorials of python and exercises. In this repo I added what I learn, I code eve
 <li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
-
 </ol>
 
 
-### <a href="stringmethods1">Methods of Strings and formatting string</a>
-### <a href="lists">Lists in python</a>
+# Exercise Projects
+<ul>
+<li><a href="Exercise_projects/exercise01.py">Own dictionary.</a></li>
+<li><a href="Exercise_projects/exercise02.py">Faulty calculator.</a></li>
+<li><a href="Exercise_projects/exercise03.py">Guess the number.</a></li>
+<li><a href="Exercise_projects/exercise04.py">Print a star pattern.</a></li>
+<li><a href="Exercise_projects/exercise05.py">Create a health management software.</a></li>
+<li><a href="Exercise_projects/exercise06.py">Snake, water, gun game.</a></li>
+<li><a href="Exercise_projects/exercise07.py"></a></li>
+</ul>
+
+## Topic exercises and some methods
+<ol>
+<li><a href="topic_exercises/dictionary">Dictionary</a></li>
+<li><a href="topic_exercises/lists">Lists</a></li>
+<li><a href="topic_exercises/operators">Operators</a></li>
+<li><a href="topic_exercises/sets">Sets</a></li>
+<li><a href="topic_exercises/stringmethods1">Strings</a></li>
+<li><a href="topic_exercises/tuples">Tuples</a></li>
+</ol>
+
+### Fun projects
+<ol>
+<li><a href="fun_project01">pdf book reader.</a></li>
+</ol>
