@@ -34,9 +34,9 @@ tutorials of python and exercises. In this repo I added what I learn, I code eve
 <li><a href="py_tuts/tut36_lambda.py">Lambda/anonymous functions</a></li>
 <li><a href="py_tuts/tut38_modules.py">Using and exploring modules in python</a></li>
 <li><a href="py_tuts/tut39_fstrings.py">F string and string formatting.</a></li>
-<li><a href="py_tuts/"></a></li>
-<li><a href="py_tuts/"></a></li>
-<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/tut41_args.py">*args</a></li>
+<li><a href="py_tuts/tut41_kwargs.py">**kwargs</a></li>
+<li><a href="py_tuts/virtual_env">Python Virtual Environment</a></li>
 <li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
