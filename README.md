@@ -1,17 +1,8 @@
 # Python Programming
 tutorials of python and exercises. In this repo I added what I learn, I code everything in python
-
-## Tutorial Notebooks
-#### 1. <a href="notebooks/py_tutorials_01.ipynb">Numerical expressions, Data types, String, List, Tuple, Dictionary, Sets.</a>
-#### 2. <a href="notebooks/py_tutorials_02.ipynb">If-Else and Elif conditions, For loop, While loop, Break and continue statements.</a>
-#### 3. <a href="notebooks/py_tutorials_03.ipynb">Functions and recursions,Docstrings, Exception Handling, Global variables,Lambda function.</a>
-#### 4. <a href="notebooks/py_tutorials_04.ipynb">File I/O, Opening files, with block</a>
-#### 5. <a href="notebooks/py_tutorials_05.ipynb">F string and string formatting</a>
-
-
-
-
-## <a href="py_tuts">Python all most complete tutorials</a>
+## Python Tutorial Notebooks
+#### 1. <a href="notebooks/Python_tutorials/python_tutorial1.ipynb">Python intro, Data Types, Variables, Docstrings, Random module, Type casting, Strings, String methods</a>
+## <a href="py_tuts">Python all most complete tutorial Programs</a>
 <ol>
 <li><a href="py_tuts/tut1.py">Basic program sum of two numbers</a></li>
 <li><a href="py_tuts/tut2.py">Sum of two variables in one line.</a></li>
@@ -36,7 +27,20 @@ tutorials of python and exercises. In this repo I added what I learn, I code eve
 <li><a href="py_tuts/tut39_fstrings.py">F string and string formatting.</a></li>
 <li><a href="py_tuts/tut41_args.py">*args</a></li>
 <li><a href="py_tuts/tut41_kwargs.py">**kwargs</a></li>
-<li><a href="py_tuts/virtual_env">Python Virtual Environment</a></li>
+<li><a href="py_tuts/virtual_env"><b>Python Virtual Environment</b></a></li>
+<li><a href="py_tuts/tut44_enum.py">Enumerate Function.</a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
@@ -53,6 +57,14 @@ tutorials of python and exercises. In this repo I added what I learn, I code eve
 <li><a href="Exercise_projects/exercise06.py">Snake, water, gun game.</a></li>
 <li><a href="Exercise_projects/exercise07.py"></a></li>
 </ul>
+
+## Wrap up the tutorials
+##### 1. <a href="notebooks/python_revision/py_tutorials_01.ipynb">Numerical expressions, Data types, String, List, Tuple, Dictionary, Sets.</a>
+##### 2. <a href="notebooks/python_revision/py_tutorials_02.ipynb">If-Else and Elif conditions, For loop, While loop, Break and continue statements.</a>
+##### 3. <a href="notebooks/python_revision/py_tutorials_03.ipynb">Functions and recursions,Docstrings, Exception Handling, Global variables,Lambda function.</a>
+##### 4. <a href="notebooks/python_revision/py_tutorials_04.ipynb">File I/O, Opening files, with block</a>
+##### 5. <a href="notebooks/python_revision/py_tutorials_05.ipynb">F string and string formatting</a>
+
 
 ## Topic exercises and some methods
 <ol>
