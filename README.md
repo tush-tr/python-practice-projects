@@ -1,5 +1,53 @@
 # Python Programming
 tutorials of python and exercises. In this repo I added what I learn, I code everything in python
+<br>
+## Python Roadmap
+<table><tr><td><b>Basic Syntax</b></td></tr>
+<tr><td>Basic Arithmetic operations</td></tr>
+<tr><td>Control and Conditional Structures</td></tr>
+<tr><td>Looping- For,While Loops</td></tr>
+<tr><td>User Input</td></tr>
+<tr><td>Strings</td></tr>
+<tr><td>Integers</td></tr>
+<tr><td>Floating Values</td></tr>
+<tr><td>Type casting</td></tr>
+<tr><td><b>In built data structures</b></td></tr>
+<tr><td>String and inbuilt functions</td></tr>
+<tr><td>List and boolean variable inbuilt functions</td></tr>
+<tr><td>Sets and inbuilt functions</td></tr>
+<tr><td>Tuples and inbuilt functions</td></tr>
+<tr><td><b>Move on functions related topics</b></td></tr>
+<tr><td>Functions in Python</td></tr>
+<tr><td>Recursion</td></tr>
+<tr><td>Global variables and local variables and Scope</td></tr>
+<tr><td>Lambda Functions</td></tr>
+<tr><td>Iterators and generators</td></tr>
+<tr><td>Exception handling and import libraries</td></tr>
+<tr><td><b>Object Oriented Programming</b></td></tr>
+<tr><td>Classes</td></tr>
+<tr><td>Objects</td></tr>
+<tr><td>Method</td></tr>
+<tr><td>Inheritance</td></tr>
+<tr><td>Polymorphism</td></tr>
+<tr><td>Data Abstraction</td></tr>
+<tr><td>Encapsulation</td></tr>
+<tr><td><b>Roadmap For data science-- Libraries</b></td></tr>
+<tr><td>Numpy</td></tr>
+<tr><td>Pandas</td></tr>
+<tr><td>Matplotlib</td></tr>
+<tr><td>Seaborn</td></tr>
+<tr><td>Scipy</td></tr>
+<tr><td><b>Web development</b></td></tr>
+<tr><td>Flask</td></tr>
+<tr><td>Django</td></tr>
+<tr><td>Web2Py</td></tr>
+<tr><td>TurboGears</td></tr>
+<tr><td>CherryPy</td></tr>
+<tr><td><b>Desktop Applications</b></td></tr>
+<tr><td>Tkinter</td></tr>
+<tr><td>Kivy</td></tr>
+<tr><td>Qt</td></tr></table>
+
 ## Python Tutorial Notebooks
 #### 1. <a href="notebooks/Python_tutorials/python_tutorial1.ipynb">Python intro, Data Types, Variables, Docstrings, Random module, Type casting, Strings, String methods</a>
 ## <a href="py_tuts">Python all most complete tutorial Programs</a>
@@ -29,9 +77,9 @@ tutorials of python and exercises. In this repo I added what I learn, I code eve
 <li><a href="py_tuts/tut41_kwargs.py">**kwargs</a></li>
 <li><a href="py_tuts/virtual_env"><b>Python Virtual Environment</b></a></li>
 <li><a href="py_tuts/tut44_enum.py">Enumerate Function.</a></li>
-<li><a href="py_tuts/"></a></li>
-<li><a href="py_tuts/"></a></li>
-<li><a href="py_tuts/"></a></li>
+<li><a href="py_tuts/tut45_import_work.py">How import works in python(sys.path)</a></li>
+<li><a href="py_tuts/tut46_main_.py">What is if __name__ == '__main__' in python</a></li>
+<li><a href="py_tuts/tut47_join.py">Join function in python</a></li>
 <li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
 <li><a href="py_tuts/"></a></li>
@@ -55,7 +103,7 @@ tutorials of python and exercises. In this repo I added what I learn, I code eve
 <li><a href="Exercise_projects/exercise04.py">Print a star pattern.</a></li>
 <li><a href="Exercise_projects/exercise05.py">Create a health management software.</a></li>
 <li><a href="Exercise_projects/exercise06.py">Snake, water, gun game.</a></li>
-<li><a href="Exercise_projects/exercise07.py"></a></li>
+<li><a href="Exercise_projects/exercise07.py">Healthy Programmer</a></li>
 </ul>
 
 ## Wrap up the tutorials
