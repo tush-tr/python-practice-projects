@@ -1,7 +1,0 @@
-# f = open("lot.txt","a" )
-# print(f.write("you are not doing so well bro\n\n\n"))
-# f.close()
-f = open("lot.txt","r+")
-print(f.read())
-f.write("thank you")
-f.close()
